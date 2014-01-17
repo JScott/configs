@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1312366215 source:e:\0-works_public\unityexternalscripteditorhelper\unityexternalscripteditorhelper\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<cstdlib>
+	<windows.h>
+	"inih/cpp/INIReader.h"
+
+1308896594 e:\0-works_public\unityexternalscripteditorhelper\unityexternalscripteditorhelper\inih\cpp\inireader.h
+	<map>
+	<string>
+
+1308898140 source:e:\0-works_public\unityexternalscripteditorhelper\unityexternalscripteditorhelper\inih\ini.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"ini.h"
+
+1309160160 e:\0-works_public\unityexternalscripteditorhelper\unityexternalscripteditorhelper\inih\ini.h
+	<stdio.h>
+
+1308898140 source:e:\0-works_public\unityexternalscripteditorhelper\unityexternalscripteditorhelper\inih\tests\unittest.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../ini.h"
+
+1308896594 source:e:\0-works_public\unityexternalscripteditorhelper\unityexternalscripteditorhelper\inih\cpp\inireader.cpp
+	<algorithm>
+	<cctype>
+	<cstdlib>
+	"../ini.h"
+	"INIReader.h"
+
