@@ -1,0 +1,7 @@
+[user]
+	name = Justin Scott
+	email = jvscott@gmail.com
+[push]
+	default = simple
+[pull]
+	ff = only
