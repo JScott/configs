@@ -43,10 +43,12 @@ export UPDATE_ZSH_DAYS=30
 # yyyy-mm-dd
 # HIST_STAMPS="mm/dd/yyyy"
 
+ZSH_TMUX_AUTOSTART=true
+
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git git-flow-avh npm ruby tmux)
+plugins=(git git-flow-avh npm ruby ssh-agent tmux)
 
 source $ZSH/oh-my-zsh.sh
 
