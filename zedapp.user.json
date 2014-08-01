@@ -1,0 +1,21 @@
+{
+    imports: [
+        "/default.json"
+    ],
+    preferences: {
+        enableAnalytics: true,
+        showMenus: false,
+        persistentTree: false,
+        tabSize: 2,
+        useSoftTabs: true,
+        fontFamily: 'Hermit',
+        fontSize: 14,
+        theme: 'merbivore_soft'
+    },
+    modes: {},
+    keys: {},
+    commands: {},
+    handlers: {},
+    themes: {},
+    packages: [    ]
+}
