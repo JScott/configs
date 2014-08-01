@@ -11,7 +11,8 @@
         fontFamily: 'Hermit',
         fontSize: 14,
         theme: 'merbivore_soft',
-        autoIndentOnPaste: false
+        autoIndentOnPaste: false,
+        trimWhitespaceOnSave: true
     },
     modes: {},
     keys: {},
