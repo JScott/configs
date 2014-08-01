@@ -10,7 +10,8 @@
         useSoftTabs: true,
         fontFamily: 'Hermit',
         fontSize: 14,
-        theme: 'merbivore_soft'
+        theme: 'merbivore_soft',
+        autoIndentOnPaste: false
     },
     modes: {},
     keys: {},
