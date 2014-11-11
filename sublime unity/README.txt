@@ -1,3 +1,15 @@
+Edit: you can do this all internally within Unity now. or maybe you always could
+
+Edit -> Preferences...
+
+External Tools tab
+
+Set External Script Editor to your Sublime Text executable
+
+Set External Script Editor Args to `"$(File)":$(Line)`
+
+===
+
 Just some quick changes by Jacob Pennock to change the default editor
 to Sublime Text 2 (64-bit on Windows). Original readme below
 
