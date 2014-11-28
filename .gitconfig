@@ -1,9 +1,0 @@
-[user]
-	name = JScott
-	email = jvscott@gmail.com
-[push]
-	default = simple
-[pull]
-	ff = only
-[color]
-        ui = true
