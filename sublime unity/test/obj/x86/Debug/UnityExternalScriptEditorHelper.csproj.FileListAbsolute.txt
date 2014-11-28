@@ -1,4 +1,0 @@
-C:\Users\t875949\My Projects\Not Technically Work\sublime unity\bin\Debug\UnityExternalScriptEditorHelper.exe
-C:\Users\t875949\My Projects\Not Technically Work\sublime unity\bin\Debug\UnityExternalScriptEditorHelper.pdb
-C:\Users\t875949\My Projects\Not Technically Work\sublime unity\obj\x86\Debug\UnityExternalScriptEditorHelper.exe
-C:\Users\t875949\My Projects\Not Technically Work\sublime unity\obj\x86\Debug\UnityExternalScriptEditorHelper.pdb
