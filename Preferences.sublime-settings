@@ -4,5 +4,6 @@
 	"fade_fold_buttons": false,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
+	"auto_match_enabled": false,
 	"word_wrap": true
 }
