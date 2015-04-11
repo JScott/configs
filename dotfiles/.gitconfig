@@ -7,3 +7,5 @@
   ff = only
 [color]
   ui = true
+[core]
+  excludesfile = ~/.gitignore
