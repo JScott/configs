@@ -11,5 +11,6 @@
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
 	"word_wrap": true,
+	"rulers": [80],
 	"file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db", "._*"]
 }
