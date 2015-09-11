@@ -1,0 +1,5 @@
+# system-wide environment settings for zsh(1)
+# fix from https://github.com/berdario/pew/issues/29
+if [ -x /usr/libexec/path_helper ] && [ -z "$TMUX" ] && [ -z "$VIRTUAL_ENV" ]; then
+        eval `/usr/libexec/path_helper -s`
+fi
