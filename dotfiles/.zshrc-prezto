@@ -13,5 +13,8 @@ fi
 # Customize to your needs...
 export EDITOR=nano
 export GOPATH=/Users/jscott/dev/gomud
+export ANDROID_HOME=/Users/justinscott/dev/android-sdk
+export PATH=$PATH:/Users/justinscott/dev/android-sdk/tools
+export PATH=$PATH:/Users/justinscott/dev/android-sdk/platform-tools
 ssh-add ~/.ssh/id_*[^.pub]
 chruby 2.2.1
