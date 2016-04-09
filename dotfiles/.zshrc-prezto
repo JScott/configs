@@ -18,3 +18,10 @@ export PATH=$PATH:/Users/justinscott/dev/android-sdk/tools
 export PATH=$PATH:/Users/justinscott/dev/android-sdk/platform-tools
 ssh-add ~/.ssh/id_*[^.pub]
 chruby 2.2.1
+
+# Friendly demeanor...
+clear
+echo -e "\e[38;5;236m^^^ I hid the startup details for you ^^^\e[0m"
+emoticons=(":)" ":D" ";)" ":V" "^_^")
+emotion=${emoticons[$RANDOM % ${#emoticons[@]} ]}
+echo -e "\e[92mWelcome to your shell, JScott ${emotion}\e[0m"
