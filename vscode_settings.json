@@ -1,0 +1,15 @@
+{
+	"editor.fontFamily": "Hermit",
+	"editor.fontSize": 14,
+	"editor.rulers": [80, 120],
+	"editor.tabSize": 2,
+	"editor.renderWhitespace": true,
+	"editorTabMovesFocus": false,
+	"files.exclude": {
+		"**/*.meta": true
+	},
+	"editor.referenceInfos": false,
+	"editor.wrappingColumn": 150,
+	"files.trimTrailingWhitespace": true,
+	"files.insertFinalNewline": true
+}
