@@ -9,3 +9,5 @@
   ui = true
 [core]
   excludesfile = ~/.gitignore
+[diff]
+  compactionHeuristic = true
