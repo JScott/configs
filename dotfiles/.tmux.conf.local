@@ -120,6 +120,7 @@ tmux_conf_new_session_prompt=false
 setw -g aggressive-resize on
 bind C-a last-window
 bind '"' choose-window
+unbind -n C-l
 
 # Rebind pane splitting
 unbind %
