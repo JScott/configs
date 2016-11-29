@@ -12,6 +12,7 @@
 	"translate_tabs_to_spaces": true,
 	"word_wrap": true,
 	"rulers": [80, 100],
+	"show_definitions": false,
 	"file_exclude_patterns": [
 		"*.pyc",
 		"*.pyo",
